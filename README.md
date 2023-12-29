@@ -20,7 +20,7 @@
 ### demo: 
 
 
-[![lavender salon](https://github.com/haandx/lavender-salon/assets/142608001/fa8b5bea-be59-4a4a-bee7-e25494b8e190)] (https://youtu.be/ZzFg5cWsh0E?si=DMdskLhfSjrpJbFq)
+[![lavender salon](https://github.com/haandx/lavender-salon/assets/142608001/fa8b5bea-be59-4a4a-bee7-e25494b8e190)](https://youtu.be/ZzFg5cWsh0E?si=DMdskLhfSjrpJbFq)
 
 
 
